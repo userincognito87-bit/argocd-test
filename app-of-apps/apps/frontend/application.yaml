@@ -7,7 +7,7 @@ spec:
   project: default
 
   source:
-    repoURL: https://github.com/userincognito87-bit/argocd-test.gitgit
+    repoURL: https://github.com/userincognito87-bit/argocd-test.git
     targetRevision: main
     path: app-of-apps/apps
 
