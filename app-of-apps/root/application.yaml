@@ -9,7 +9,7 @@ spec:
   source:
     repoURL: https://github.com/userincognito87-bit/argocd-test.git
     targetRevision: main
-    path: apps
+    path: app-of-apps/apps
 
   destination:
     server: https://kubernetes.default.svc
